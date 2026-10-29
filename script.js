@@ -1,4 +1,4 @@
-const eventDate = new Date("2026-12-14T09:00:00+01:00");
+const eventDate = new Date("2027-12-14T09:00:00+01:00");
 const countdownNumbers = document.querySelectorAll(".countdown-number");
 const registerSection = document.querySelector("#register");
 const form = document.querySelector("#register form");

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NEXUS favicon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Pitch Arena favicon">
   <rect width="64" height="64" rx="10" fill="#00153f"/>
-  <path d="M16 46V18h6l20 18V18h6v28h-6L22 28v18z" fill="#ffffff"/>
+  <text x="32" y="39" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" letter-spacing="-1" fill="#ffffff">PA</text>
   <path d="M14 50h36v4H14z" fill="#0052ff"/>
 </svg>

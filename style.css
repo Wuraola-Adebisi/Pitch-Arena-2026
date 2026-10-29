@@ -8,7 +8,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: var(--nav-height);
+  scroll-padding-top: 1rem;
 }
 
 :root {
@@ -48,7 +48,6 @@ html {
 
 /* Body */
 body {
-  padding-top: var(--nav-height);
   font-family: 'Inter', sans-serif;
   color: var(--text);
   background: var(--bgWhite);
@@ -78,9 +77,7 @@ body {
 
 /* Header */
 header {
-  position: fixed;
-  top: 0;
-  left: 0;
+  position: relative;
   width: 100%;
   height: var(--nav-height);
   background: var(--bgWhite);

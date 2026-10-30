@@ -1,5 +1,5 @@
-# Pitch Arena 2026
-A polished static event website for Pitch Arena 2026, a three-day technology conference in Lagos.
+# Pitch Arena 2027
+A polished static event website for Pitch Arena 2027, a three-day technology conference in Lagos.
 
 ## Live Site
 [View Live](https://wuraola-adebisi.github.io/Pitch Arena/)
